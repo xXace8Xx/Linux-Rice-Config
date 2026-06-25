@@ -10,3 +10,12 @@
 [JetBrains](https://github.com)
 ### Extra Fonts
 [Google's Noto Sans](https://github.com)
+
+
+# Extra Tools
+lxpolkit
+dunst
+XLibre
+xwallpaper
+dwmbar
+fastfetch
