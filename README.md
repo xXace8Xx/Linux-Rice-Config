@@ -1,7 +1,7 @@
 # Tools
-[dwm (flexipatch)](https://github.com/)
-[st (flexipatch)](https://github.com/)
-[dmenu (flexipatch)](https://github.com/)
+[dwm (flexipatch)](https://github.com/)<br>
+[st (flexipatch)](https://github.com/)<br>
+[dmenu (flexipatch)](https://github.com/)<br>
 
 # Color Scheme
 [GruvBox](https://github.com)
@@ -13,9 +13,9 @@
 
 
 # Extra Tools
-lxpolkit
-dunst
-XLibre
-xwallpaper
-dwmbar
-fastfetch
+lxpolkit<br>
+dunst<br>
+XLibre<br>
+xwallpaper<br>
+dwmbar<br>
+fastfetch<br>
